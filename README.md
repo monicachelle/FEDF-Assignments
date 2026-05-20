@@ -1,5 +1,4 @@
 # FEDF Assignments
-
 Name: Monica Raghini Chelle  
  
  ## Tech Stack
