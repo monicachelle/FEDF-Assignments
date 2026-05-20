@@ -1,10 +1,8 @@
 # FEDF Assignments
 
 Name: Monica Raghini Chelle  
-Roll No: 2520040093  
-Section: 14  
-
-## Tech Stack
+ 
+ ## Tech Stack
 - HTML
 - CSS
 - JavaScript
